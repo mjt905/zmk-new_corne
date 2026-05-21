@@ -422,3 +422,4 @@ combos:
   l: [QWERTY]
 - p: [29, 30]
   k: F14
+  l: [QWERTY, FN]
