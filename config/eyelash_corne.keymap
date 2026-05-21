@@ -71,23 +71,12 @@
             quick-tap-ms = <125>;
         };
 
-        new_behavior: new_behavior {
-            compatible = "zmk,behavior-tap-dance";
-            display-name = "Shift/Caps Lock Tap Dance";
-            #binding-cells = <0>;
-            bindings = <&kp Z>, <&kp F14>;
-
-            tapping-term-ms = <170>;
-            label = "NEW_BEHAVIOR";
-        };
-
         tdz: tdz {
             compatible = "zmk,behavior-tap-dance";
             display-name = "Shift/Caps Lock Tap Dance";
             #binding-cells = <0>;
             bindings = <&kp Z>, <&kp F14>;
 
-            tapping-term-ms = <170>;
             label = "TDZ";
         };
     };
@@ -144,7 +133,7 @@
         del {
             bindings = <&kp DEL>;
             key-positions = <17 18>;
-            layers = <0>;
+            layers = <0 1>;
         };
 
         caps {
@@ -157,6 +146,11 @@
             bindings = <&kp LEFT_ALT>;
             key-positions = <3 16>;
             layers = <0>;
+        };
+
+        F144 {
+            bindings = <&kp F14>;
+            key-positions = <29 30>;
         };
     };
 
