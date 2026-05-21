@@ -600,6 +600,10 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="182" y="43" width="28" height="26" class="combo"/>
 <use href="#mdi:apple-keyboard-option" xlink:href="#mdi:apple-keyboard-option" x="187" y="47" height="18" width="18.0" class="combo tap glyph mdi:apple-keyboard-option"/>
 </g>
+<g class="combo combopos-9">
+<rect rx="6" ry="6" x="98" y="141" width="28" height="26" class="combo"/>
+<text x="112" y="154" class="combo tap">F14</text>
+</g>
 </g>
 </g>
 <g transform="translate(40, 318)" class="layer-NUMBER">
@@ -877,6 +881,14 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="854" y="29" width="28" height="26" class="combo backspace"/>
 <use href="#mdi:backspace" xlink:href="#mdi:backspace" x="859" y="33" height="18" width="18.0" class="combo backspace tap glyph mdi:backspace"/>
 </g>
+<g class="combo combopos-2">
+<rect rx="6" ry="6" x="266" y="81" width="28" height="26" class="combo"/>
+<use href="#mdi:backspace-reverse-outline" xlink:href="#mdi:backspace-reverse-outline" x="271" y="85" height="18" width="18.0" class="combo tap glyph mdi:backspace-reverse-outline"/>
+</g>
+<g class="combo combopos-3">
+<rect rx="6" ry="6" x="98" y="141" width="28" height="26" class="combo"/>
+<text x="112" y="154" class="combo tap">F14</text>
+</g>
 </g>
 </g>
 <g transform="translate(40, 637)" class="layer-FN">
@@ -1136,6 +1148,10 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="854" y="29" width="28" height="26" class="combo backspace"/>
 <use href="#mdi:backspace" xlink:href="#mdi:backspace" x="859" y="33" height="18" width="18.0" class="combo backspace tap glyph mdi:backspace"/>
 </g>
+<g class="combo combopos-2">
+<rect rx="6" ry="6" x="98" y="141" width="28" height="26" class="combo"/>
+<text x="112" y="154" class="combo tap">F14</text>
+</g>
 </g>
 </g>
 <g transform="translate(40, 955)" class="layer-Arrow">
@@ -1393,6 +1409,10 @@ rect.held, rect.combo.held {
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key trans"/>
 <use href="#mdi:transfer" xlink:href="#mdi:transfer" x="-9" y="-13" height="18" width="18.0" class="key trans tap glyph mdi:transfer"/>
 </g>
+<g class="combo combopos-0">
+<rect rx="6" ry="6" x="98" y="141" width="28" height="26" class="combo"/>
+<text x="112" y="154" class="combo tap">F14</text>
+</g>
 </g>
 </g>
 <g transform="translate(40, 1274)" class="layer-Win">
@@ -1644,6 +1664,10 @@ rect.held, rect.combo.held {
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key"/>
 <use href="#mdi:mouse-scroll-wheel" xlink:href="#mdi:mouse-scroll-wheel" x="-9" y="-13" height="18" width="18.0" class="key tap glyph mdi:mouse-scroll-wheel"/>
 </g>
+<g class="combo combopos-0">
+<rect rx="6" ry="6" x="98" y="141" width="28" height="26" class="combo"/>
+<text x="112" y="154" class="combo tap">F14</text>
+</g>
 </g>
 </g>
 <g transform="translate(40, 1592)" class="layer-RtoL">
@@ -1890,6 +1914,10 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans side"/>
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key trans"/>
 <use href="#mdi:transfer" xlink:href="#mdi:transfer" x="-9" y="-13" height="18" width="18.0" class="key trans tap glyph mdi:transfer"/>
+</g>
+<g class="combo combopos-0">
+<rect rx="6" ry="6" x="98" y="141" width="28" height="26" class="combo"/>
+<text x="112" y="154" class="combo tap">F14</text>
 </g>
 </g>
 </g>
@@ -2144,6 +2172,10 @@ rect.held, rect.combo.held {
 <text x="0" y="-4" class="key tap layer-activator">QWERTY</text>
 </a><text x="0" y="24" class="key hold">toggle</text>
 </g>
+<g class="combo combopos-0">
+<rect rx="6" ry="6" x="98" y="141" width="28" height="26" class="combo"/>
+<text x="112" y="154" class="combo tap">F14</text>
+</g>
 </g>
 </g>
 <g transform="translate(40, 2229)" class="layer-LOL">
@@ -2396,6 +2428,10 @@ rect.held, rect.combo.held {
 <a href="#QWERTY">
 <text x="0" y="-4" class="key tap layer-activator">QWERTY</text>
 </a><text x="0" y="24" class="key hold">toggle</text>
+</g>
+<g class="combo combopos-0">
+<rect rx="6" ry="6" x="98" y="141" width="28" height="26" class="combo"/>
+<text x="112" y="154" class="combo tap">F14</text>
 </g>
 </g>
 </g>

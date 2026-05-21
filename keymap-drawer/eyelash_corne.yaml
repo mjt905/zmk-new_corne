@@ -413,10 +413,12 @@ combos:
   l: [QWERTY]
 - p: [17, 18]
   k: $$mdi:backspace-reverse-outline$$
-  l: [QWERTY]
+  l: [QWERTY, NUMBER]
 - p: [15, 2]
   k: $$mdi:apple-keyboard-caps$$
   l: [QWERTY]
 - p: [3, 16]
   k: $$mdi:apple-keyboard-option$$
   l: [QWERTY]
+- p: [29, 30]
+  k: F14
