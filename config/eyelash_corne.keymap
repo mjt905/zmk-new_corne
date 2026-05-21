@@ -151,6 +151,8 @@
         F144 {
             bindings = <&kp F14>;
             key-positions = <29 30>;
+            layers = <0 2>;
+            timeout-ms = <30>;
         };
     };
 
